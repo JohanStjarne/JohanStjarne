@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm currently learning how to use Git while studying JavaScript and web development at Mid-Sweden univerisity.
+
 
 <!--
 **JohanStjarne/JohanStjarne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
