@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm currently learning how to use Git while studying JavaScript and web development at Mid-Sweden univerisity.
+I'm currently learning how to use Git while studying JavaScript and web development at Mid-Sweden univerisity. <br>
 /Johan
 
 <!--
